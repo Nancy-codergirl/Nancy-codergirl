@@ -3,9 +3,9 @@
 [![Gmail](https://img.shields.io/badge/-pwachira900@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pwachira900@gmail.com)](mailto:pwachira900@gmail.com)
 [![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)
 
-# Hi, I'm Peter.
+# Hi, I'm Nancy.
 
-#### Welcome to my Dojo!
+<img align="left' src="<iframe src="https://giphy.com/embed/dZXzmKGKNiJtDxuwGg" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/originals-dZXzmKGKNiJtDxuwGg">via GIPHY</a></p>
 
 
 
