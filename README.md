@@ -16,13 +16,6 @@ I currently work as an Android Developer and I maintain/develop various app that
 
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
-### 💼 Career
-- Android Developer UpWork Remote ~ Present https://www.upwork.com/workwith/peterw29
-- Android Engineer at Proto Energy in Nairobi, Kenya ~ October 2020 to present 
-- Sr. Android Engineer  at Niletee Marketplace in Nairobi, Kenya https://www.niletee.com/shop ~ January 2020 - present
-- Software Developer at Wazinsure ~ August 2019 to July 2020
-
-
 ## Tech Stack :computer: (My Skills)
 
 <table>
@@ -106,19 +99,9 @@ I currently work as an Android Developer and I maintain/develop various app that
 
 ### 🎉 Things that make me, me
 
-*  I love teaching others about tech & programming & collaborating with other amazing devs 🤼
-*  I love to learn and am always watching videos or reading blogs about different tech/dev based topics to enhance my knowledge. 📚
-*  I appreciate good music. I play the guitar 🎸
-*  Lets connect: https://peterwachira.com/
+*  I am passionate about mentoring others in cybersecurity.
+*  I love to learn and am always watching videos or reading blogs about different cybersecurity based topics to enhance my knowledge. 📚
 
-## My Projects
-
-Check out some of my more interesting production-level projects (in no particular order):
-https://peterwachira.com/
-
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira)](https://github.com/laisbsc/github-readme-stats)
-
-<!-- 
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira) -->
 
 >
