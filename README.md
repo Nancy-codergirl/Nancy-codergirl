@@ -5,13 +5,9 @@
 
 # Hi, I'm Nancy.
 
-<img align="left' src="https://media1.giphy.com/media/dZXzmKGKNiJtDxuwGg/giphy.gif" width=300">
+I am an information security engineer with expertise in application and network vulnerability assessment  and penetration testing, Threat Modeling, Security Intelligence, logging and monitoring and  implementation of ISO 27001 security framework. I am result oriented, self-driven, highly motivated, smart  and eager to learn new technologies, methodologies, strategies, and processes. I thrive in fast-paced and  challenging environments where accuracy and efficiency matter. 
 
-
-
-I currently work as an Android Developer and I maintain/develop various app that are widely used across Kenya.
-
-
+*I am a fullstack developer profieceint in both frontend and backend technologies.
 
 
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
@@ -101,7 +97,5 @@ I currently work as an Android Developer and I maintain/develop various app that
 
 *  I am passionate about mentoring others in cybersecurity.
 *  I love to learn and am always watching videos or reading blogs about different cybersecurity based topics to enhance my knowledge. 📚
-
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira) -->
 
 >
