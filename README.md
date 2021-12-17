@@ -5,7 +5,7 @@
 
 # Hi, I'm Nancy.
 
-<img align="left' src="<iframe src="https://giphy.com/embed/dZXzmKGKNiJtDxuwGg" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/originals-dZXzmKGKNiJtDxuwGg">via GIPHY</a></p>
+<img align="left' src="https://media1.giphy.com/media/dZXzmKGKNiJtDxuwGg/giphy.gif" width=300"
 
 
 
