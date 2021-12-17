@@ -6,8 +6,7 @@
 # Hi, I'm Nancy.
 
 I am an information security engineer with expertise in application and network vulnerability assessment  and penetration testing, Threat Modeling, Security Intelligence, logging and monitoring and  implementation of ISO 27001 security framework. I am result oriented, self-driven, highly motivated, smart  and eager to learn new technologies, methodologies, strategies, and processes. I thrive in fast-paced and  challenging environments where accuracy and efficiency matter. 
-
-*I am a fullstack developer profieceint in both frontend and backend technologies.
+ I am also a fullstack developer proficient in both frontend and backend technologies.
 
 
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
