@@ -89,4 +89,5 @@ I am an information security engineer with expertise in application and network 
 *  I love to learn and am always watching videos or reading blogs about different cybersecurity based topics to enhance my knowledge. 📚
 
 ### Let us connect
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">-Nancy Muriithi
+<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg">-Sheina_techie
