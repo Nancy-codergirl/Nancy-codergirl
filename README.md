@@ -17,10 +17,10 @@ I am an information security engineer with expertise in application and network 
 </tr>
 <tr>
    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
     </td>
       <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
@@ -32,7 +32,7 @@ I am an information security engineer with expertise in application and network 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>
       <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg">
     </td>
 </tr>
 <tr>
