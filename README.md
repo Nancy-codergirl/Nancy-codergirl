@@ -5,7 +5,7 @@ I am an information security engineer with expertise in application and network 
  I am also a fullstack developer proficient in both frontend and backend technologies.
 
 
-<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300">
 
 ## Tech Stack :computer: (My Skills)
 
@@ -54,7 +54,7 @@ I am an information security engineer with expertise in application and network 
         <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
@@ -66,9 +66,6 @@ I am an information security engineer with expertise in application and network 
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
-    </td>
    <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg">
     </td>
@@ -78,11 +75,9 @@ I am an information security engineer with expertise in application and network 
    <td align='center'>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/terminal-1.svg" width="60">
     </td>
-      <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
     </td>
         <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg">
     </td>
 </tr>
 </table>
@@ -93,4 +88,5 @@ I am an information security engineer with expertise in application and network 
 *  I am passionate about mentoring others in cybersecurity.
 *  I love to learn and am always watching videos or reading blogs about different cybersecurity based topics to enhance my knowledge. 📚
 
->
+### Let us connect
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
