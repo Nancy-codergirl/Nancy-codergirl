@@ -1,7 +1,3 @@
-[![Linkedin](https://img.shields.io/badge/peter-wachira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-wachira/)](https://www.linkedin.com/in/peter-wachira/)
-[![Gitlab](https://img.shields.io/badge/Gitlab%20-blue?style=flat&logo=Gitlab&logoColor=white)](https://www.gitlab.com/peter-wachira)
-[![Gmail](https://img.shields.io/badge/-pwachira900@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pwachira900@gmail.com)](mailto:pwachira900@gmail.com)
-[![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)
 
 # Hi, I'm Nancy.
 
