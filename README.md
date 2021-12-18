@@ -1,8 +1,10 @@
 
-# Hi, I'm Nancy.
+# Hi, I'm Nancy :wave:
 
-I am an information security engineer with expertise in application and network vulnerability assessment  and penetration testing, Threat Modeling, Security Intelligence, logging and monitoring and  implementation of ISO 27001 security framework. I am result oriented, self-driven, highly motivated, smart  and eager to learn new technologies, methodologies, strategies, and processes. I thrive in fast-paced and  challenging environments where accuracy and efficiency matter. 
- I am also a fullstack developer proficient in both frontend and backend technologies.
+
+I am an information security engineer with expertise in application and network vulnerability assessment and penetration testing, Threat Modeling, Security Intelligence, logging and monitoring.
+
+ I am also a fullstack developer proficient in both frontend and backend technologies.:woman_technologist:
 
 
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300">
@@ -89,5 +91,5 @@ I am an information security engineer with expertise in application and network 
 *  I love to learn and am always watching videos or reading blogs about different cybersecurity based topics to enhance my knowledge. 📚
 
 ### Let us connect
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">-Nancy Muriithi
-<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg">-Sheina_techie
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">   Nancy Muriithi
+<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg">     Sheina_techie
