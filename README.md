@@ -6,6 +6,9 @@ I am an information security engineer with expertise in application and network 
 
  I am also a fullstack developer proficient in both frontend and backend technologies.:woman_technologist:
 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Nancy Muriithi;I+%E2%9D%A4%EF%B8%8F+web++Development+and+Security;I'm+doing+research+on+DevsecOps;i+am+a+cybersecurity trainer;i+really+love+code+%E2%9D%A4%EF%B8%8F+;i+%E2%9D%A4%EF%B8%8F+ARM+Assembly+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I+am Nancy Muriithi;I+%E2%9D%A4%EF%B8%8F+Web+App++Development+and+Security;I'm+doing+research+on+DevSecOps technologies;i+am+a+cybersecurity+trainer;i+really+love+code+%E2%9D%A4%EF%B8%8F+;i+%E2%9D%A4%EF%B8%8F+ARM+Assembly+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F"></p>
+
 
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300">
 
