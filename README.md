@@ -1,43 +1,36 @@
+# Welcome to My Cybersecurity World! 👨‍💻🔒🎙️
 
-# Hi, I'm Nancy :wave:
+Hello there! I'm Nancy, a passionate Cybersecurity Engineer, Penetration Tester, and Public Speaker. I'm on a mission to make the digital world a safer place, one line of code and one secure system at a time. With a blend of technical expertise, ethical hacking skills, and effective communication, I strive to drive awareness and build robust defenses against cyber threats.
 
+## About Me
 
-I am an information security engineer with expertise in application and network vulnerability assessment and penetration testing, Threat Modeling, Security Intelligence, logging and monitoring.
+- 🔒 Cybersecurity Enthusiast with a focus on Penetration Testing and Vulnerability Assessment.
+- 🌐 Public Speaker, spreading cybersecurity awareness and best practices.
+- 🛡️ Committed to enhancing digital security to protect individuals and businesses.
+- 🌱 Lifelong learner, constantly exploring new technologies and attack vectors.
 
- I am also a fullstack developer proficient in both frontend and backend technologies.:woman_technologist:
+## What I Do
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Nancy Muriithi;I+%E2%9D%A4%EF%B8%8F+web++Development+and+Security;I'm+doing+research+on+DevsecOps;i+am+a+cybersecurity trainer;i+really+love+code+%E2%9D%A4%EF%B8%8F+;i+%E2%9D%A4%EF%B8%8F+ARM+Assembly+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F"></p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I+am Nancy Muriithi;I+%E2%9D%A4%EF%B8%8F+Web+App++Development+and+Security;I'm+doing+research+on+DevSecOps technologies;i+am+a+cybersecurity+trainer;i+really+love+code+%E2%9D%A4%EF%B8%8F+;i+%E2%9D%A4%EF%B8%8F+ARM+Assembly+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F"></p>
+### 🔐 Cybersecurity Engineering
+I design and implement security solutions that safeguard digital systems from unauthorized access, data breaches, and cyber attacks. From architecture reviews to secure coding practices, I ensure robust protection throughout the development lifecycle.
 
+### 🕵️ Penetration Testing
+As a skilled Penetration Tester, I simulate real-world attacks to identify vulnerabilities in systems, networks, and applications. My goal is to help organizations proactively address weaknesses before malicious hackers exploit them.
 
-<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300">
+### 🎙️ Public Speaking & Advocacy
+I take pride in demystifying cybersecurity concepts through engaging talks and workshops. From conferences to workshops, I educate individuals and businesses about emerging threats, security best practices, and the importance of a proactive cybersecurity stance.
 
+## Connect with Me
 
+📫 Feel free to reach out to me via email at [your@email.com](mailto:your@email.com) for collaboration, speaking engagements, or just to chat about all things cybersecurity.
 
-<table>
-<tr>
-  <td align='center'>
-        Proficient:
-    </td>
-</tr>
-<tr>
-   <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-    </td>
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-    </td>
- 
+🌐 Check out my personal blogging website: [https://medium.com/me/stories/public) for more details about my projects and blog posts.
 
+## Let's Secure the Future Together!
 
-### 🎉 Things that make me, me
+Connect with me and let's join forces in creating a safer digital landscape. Whether it's discussing the latest vulnerabilities, sharing insights on secure coding, or collaborating on innovative solutions, I'm always excited to connect with fellow cybersecurity enthusiasts!
 
-*  I am a cybersecurity trainer and conference speaker
-*  I love to learn and am always watching videos or reading blogs about different cybersecurity based topics to enhance my knowledge. 📚
+Remember, in the ever-evolving realm of technology, security is not a destination – it's a journey. Stay curious, stay secure! 🔐🌐
 
 ### Let us connect
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">   Nancy Muriithi
