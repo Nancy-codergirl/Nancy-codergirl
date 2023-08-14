@@ -22,7 +22,7 @@ I take pride in demystifying cybersecurity concepts through engaging talks and w
 
 ## Connect with Me
 
-📫 Feel free to reach out to me via email at [your@email.com](mailto:your@email.com) for collaboration, speaking engagements, or just to chat about all things cybersecurity.
+📫 Feel free to reach out to me via LinkedIn at [Nancy Muriithi](https://www.linkedin.com/in/nancy-muriithi/) for collaboration, speaking engagements, or just to chat about all things cybersecurity.
 
 🌐 Check out my personal blogging website: [https://medium.com/me/stories/public) for more details about my projects and blog posts.
 
