@@ -24,7 +24,7 @@ I take pride in demystifying cybersecurity concepts through engaging talks and w
 
 📫 Feel free to reach out to me via LinkedIn at [Nancy Muriithi](https://www.linkedin.com/in/nancy-muriithi/) for collaboration, speaking engagements, or just to chat about all things cybersecurity.
 
-🌐 Check out my personal blogging website: [https://medium.com/me/stories/public) for more details about my projects and blog posts.
+🌐 Check out my personal blogging website: [Nancy's blog](https://medium.com/me/stories/public) for more details about my projects and blog posts.
 
 ## Let's Secure the Future Together!
 
