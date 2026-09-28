@@ -1,37 +1,117 @@
-# Welcome to My Cybersecurity World! 👨‍💻🔒🎙️
+# Hi, I'm Nancy Muriithi 👋🏽
 
-Hello there! I'm Nancy, a passionate Cybersecurity Engineer, Penetration Tester, and Public Speaker. I'm on a mission to make the digital world a safer place, one line of code and one secure system at a time. With a blend of technical expertise, ethical hacking skills, and effective communication, I strive to drive awareness and build robust defenses against cyber threats.
+### Security Architect | AI Security & Governance | Offensive Security | Digital Trust
 
-## About Me
+I work at the intersection of **cybersecurity, AI security, governance, and emerging technology**.
 
-- 🔒 Cybersecurity Enthusiast with a focus on Penetration Testing and Vulnerability Assessment.
-- 🌐 Public Speaker, spreading cybersecurity awareness and best practices.
-- 🛡️ Committed to enhancing digital security to protect individuals and businesses.
-- 🌱 Lifelong learner, constantly exploring new technologies and attack vectors.
+My work spans security architecture, vulnerability research, penetration testing, threat detection, incident response, cloud security, AI risk governance, and security awareness.
 
-## What I Do
+I'm particularly interested in a question that is becoming increasingly important:
 
-### 🔐 Cybersecurity Engineering
-I design and implement security solutions that safeguard digital systems from unauthorized access, data breaches, and cyber attacks. From architecture reviews to secure coding practices, I ensure robust protection throughout the development lifecycle.
+> **How do we build powerful technology without losing security, accountability, and trust?**
 
-### 🕵️ Penetration Testing
-As a skilled Penetration Tester, I simulate real-world attacks to identify vulnerabilities in systems, networks, and applications. My goal is to help organizations proactively address weaknesses before malicious hackers exploit them.
+Currently, I'm exploring the security and governance challenges emerging from AI systems — from prompt injection and model abuse to AI supply-chain risk, AI red teaming, shadow AI, and practical governance controls.
 
-### 🎙️ Public Speaking & Advocacy
-I take pride in demystifying cybersecurity concepts through engaging talks and workshops. From conferences to workshops, I educate individuals and businesses about emerging threats, security best practices, and the importance of a proactive cybersecurity stance.
+---
 
-## Connect with Me
+## 🔐 What I Work On
 
-📫 Feel free to reach out to me via LinkedIn at [Nancy Muriithi](https://www.linkedin.com/in/nancy-muriithi/) for collaboration, speaking engagements, or just to chat about all things cybersecurity.
+### Security Architecture & Engineering
+- Security architecture and design reviews
+- Threat modelling
+- Vulnerability management
+- Endpoint and cloud security
+- SIEM / detection engineering
+- Incident response
+- DevSecOps and secure development practices
 
-🌐 Check out my personal blogging website: [Nancy's blog](https://medium.com/me/stories/public) for more details about my projects and blog posts.
+### Offensive Security
+- Penetration testing
+- Web application security
+- Network security assessments
+- Vulnerability research
+- Adversarial testing
+- Attack-path analysis
 
-## Let's Secure the Future Together!
+### AI Security & Governance
+- AI threat modelling
+- AI red teaming
+- Prompt injection and LLM security
+- AI risk assessments
+- Secure AI architecture
+- AI governance frameworks
+- Responsible AI controls
+- Shadow AI and enterprise AI risk
 
-Connect with me and let's join forces in creating a safer digital landscape. Whether it's discussing the latest vulnerabilities, sharing insights on secure coding, or collaborating on innovative solutions, I'm always excited to connect with fellow cybersecurity enthusiasts!
+### Governance & Digital Trust
+- ISO 27001
+- NIST frameworks
+- Security governance
+- Technology risk
+- AI governance
+- Data protection
+- Security awareness and leadership
 
-Remember, in the ever-evolving realm of technology, security is not a destination – it's a journey. Stay curious, stay secure! 🔐🌐
+---
 
-### Let us connect
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">   Nancy Muriithi
-<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg">     Sheina_techie
+## 🧠 Current Areas of Research
+
+I'm currently digging deeper into:
+
+- LLM and Generative AI security
+- AI red teaming
+- Adversarial machine learning
+- AI system threat modelling
+- Model and data supply-chain security
+- Agentic AI security
+- AI assurance and evaluation
+- AI governance in emerging markets
+- Security implications of increasingly capable AI systems
+
+
+## 🛠️ Security Stack
+
+**Security & Offensive**
+
+`Burp Suite` · `Nmap` · `Nessus` · `OpenVAS` · `Kali Linux` · `Trivy`
+
+**Detection & Endpoint**
+
+`Wazuh` · `CrowdStrike` · `SIEM` · `EDR`
+
+**Cloud & DevSecOps**
+
+`AWS` · `Docker` · `Cloud Security` · `DevSecOps`
+
+**Governance**
+
+`ISO 27001` · `NIST` · `SOC 2` · `PCI DSS` · `AI Governance`
+
+---
+
+## 🎓 Certifications
+
+- CISSP
+- PNPT – Practical Network Penetration Tester
+- ISO/IEC 27001 Lead Auditor
+- AWS Solutions Architect
+
+---
+
+## 🧪 What You'll Find Here
+
+This GitHub is gradually becoming my technical lab for work around cybersecurity and AI security.
+
+Expect repositories covering things like:
+
+```text
+├── ai-security-labs
+├── llm-security
+├── prompt-injection-research
+├── ai-threat-modeling
+├── penetration-testing
+├── security-automation
+├── detection-engineering
+├── cloud-security
+├── vulnerability-research
+└── governance-as-code
