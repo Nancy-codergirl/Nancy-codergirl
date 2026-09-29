@@ -12,8 +12,6 @@ I'm particularly interested in a question that is becoming increasingly importan
 
 Currently, I'm exploring the security and governance challenges emerging from AI systems — from prompt injection and model abuse to AI supply-chain risk, AI red teaming, shadow AI, and practical governance controls.
 
----
-
 ## 🔐 What I Work On
 
 ### Security Architecture & Engineering
@@ -52,8 +50,6 @@ Currently, I'm exploring the security and governance challenges emerging from AI
 - Data protection
 - Security awareness and leadership
 
----
-
 ## 🧠 Current Areas of Research
 
 I'm currently digging deeper into:
@@ -87,7 +83,6 @@ I'm currently digging deeper into:
 
 `ISO 27001` · `NIST` · `SOC 2` · `PCI DSS` · `AI Governance`
 
----
 
 ## 🎓 Certifications
 
@@ -95,8 +90,6 @@ I'm currently digging deeper into:
 - PNPT – Practical Network Penetration Tester
 - ISO/IEC 27001 Lead Auditor
 - AWS Solutions Architect
-
----
 
 ## 🧪 What You'll Find Here
 
